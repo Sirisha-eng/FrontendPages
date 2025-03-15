@@ -44,6 +44,7 @@ function App() {
       detailsLink: "job-details.html"
     }
     // Add more jobs as needed
+    // if you nedd
   ];
   console.log('App component rendered');
   return (
